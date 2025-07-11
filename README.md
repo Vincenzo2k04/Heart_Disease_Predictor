@@ -47,7 +47,7 @@ The dataset was split into training and test sets using `train_test_split` with 
 | Model                  | Accuracy Score (Test) |
 |-----------------------|------------------------|
 | Logistic Regression   |         78.01%         |
-| Decision Tree         |         90,58%         |
+| Decision Tree         |         90.58%         |
 | Random Forest         |         91.1%          |
 | KNN                   |         80.1%          |
 | SVM                   |         80.63%         |
