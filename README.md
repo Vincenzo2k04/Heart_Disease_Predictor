@@ -74,10 +74,3 @@ The dataset was split into training and test sets using `train_test_split` with 
 - Add explainability tools like SHAP or LIME.
 
 ---
-
-
----
-
-## 🤝 Contributions
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/heart-disease-prediction/issues) if you'd like to collaborate.
