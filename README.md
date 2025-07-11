@@ -46,15 +46,13 @@ The dataset was split into training and test sets using `train_test_split` with 
 
 | Model                  | Accuracy Score (Test) |
 |-----------------------|------------------------|
-| Logistic Regression   | *~To be filled*        |
-| Decision Tree         | *~To be filled*        |
-| Random Forest         | *~To be filled*        |
-| KNN                   | *~To be filled*        |
-| SVM                   | *~To be filled*        |
-| Gradient Boosting     | *~To be filled*        |
-| XGBoost               | *~To be filled*        |
-
-> 📌 *Replace the above with actual scores once your model finishes training.*
+| Logistic Regression   |         78.01%         |
+| Decision Tree         |         90,58%         |
+| Random Forest         |         91.1%          |
+| KNN                   |         80.1%          |
+| SVM                   |         80.63%         |
+| Gradient Boosting     |         89.01%         |
+| XGBoost               |         93.72%         |
 
 ---
 
@@ -77,42 +75,6 @@ The dataset was split into training and test sets using `train_test_split` with 
 
 ---
 
-## 💻 Setup Instructions
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/heart-disease-prediction.git
-   cd heart-disease-prediction
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the notebook:
-   ```bash
-   jupyter notebook Heart_Disease.ipynb
-   ```
-
-> 📝 *Make sure to place your dataset CSV in the appropriate directory or update the path.*
-
----
-
-## 📁 Project Structure
-
-```
-├── Heart_Disease.ipynb
-├── dataset.csv
-├── README.md
-└── requirements.txt
-```
-
----
-
-## 📌 License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
